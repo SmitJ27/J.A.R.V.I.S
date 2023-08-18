@@ -1,6 +1,6 @@
 # J.A.R.V.I.S
 
-JARVIS is an AI assistant based on Iron Man's personal assistant J.A.R.V.I.S. With the help of python as well as seeral modules such as 
+JARVIS is an AI assistant based on Iron Man's personal assistant J.A.R.V.I.S. With the help of python as well as several modules such as 
 
 1) cv2
 2) pyttsx3
@@ -16,3 +16,8 @@ JARVIS is an AI assistant based on Iron Man's personal assistant J.A.R.V.I.S. Wi
 12) pywhattkit
 
 and many more, we can turn this assistant into a useful tool. 
+
+Step 1 - install the neccessary modules using the command 'pip install' 'module_name' 
+Step 2 - run the main.py file 
+Step 3 - command the assistant with the help of speech-recognition to perform several tasks 
+
