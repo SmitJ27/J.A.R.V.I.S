@@ -1,4 +1,5 @@
 # J.A.R.V.I.S
+The project idea might be available on several platforms but the implementation done by me consists of additional functionalities such as inclusion of GUI & more tasks related to automation of software applications! 
 
 JARVIS is an AI assistant based on Iron Man's personal assistant J.A.R.V.I.S. With the help of python as well as several modules such as 
 
